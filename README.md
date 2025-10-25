@@ -12,7 +12,7 @@
 
 
 ## Screenshots
-
+![theme screenshot 1](/screenshots/overview.gif)
 ![theme screenshot 1](/screenshots/nier1.png)
 ![theme screenshot 2](/screenshots/nier2.png)
 ![theme screenshot 3](/screenshots/nier3.png)
