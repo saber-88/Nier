@@ -1,19 +1,12 @@
 $HOME/.config/waybar/theme.css|${scrDir}/wbarconfgen.sh
-/* ====================================
-   NieR: Automata Forest Theme
-   Better contrast for readability
-   ==================================== */
 
 @define-color bar-bg rgba(0, 0, 0, 0);
 
-/* Main colors - darker background, bright text */
-@define-color main-bg rgba(37, 57, 33, 0.7);      /* deep forest green - darker */
-@define-color main-fg rgba(247, 238, 225, 0.95);  /* bright cream - very light */
+@define-color main-bg rgba(37, 57, 33, 0.7);
+@define-color main-fg rgba(247, 238, 225, 0.95);
 
-/* Active module - medium dark bg, bright text */
-@define-color wb-act-bg rgba(83, 98, 70, 0.8);    /* olive green - solid */
-@define-color wb-act-fg rgba(247, 238, 225, 1);   /* bright cream - fully opaque */
+@define-color wb-act-bg rgba(83, 98, 70, 0.8);
+@define-color wb-act-fg rgba(247, 238, 225, 1);
 
-/* Hover module - brightest bg, dark text */
-@define-color wb-hvr-bg rgba(188, 189, 163, 0.9); /* light sage - prominent */
-@define-color wb-hvr-fg rgba(7, 32, 8, 1);        /* deep forest - strong contrast */
+@define-color wb-hvr-bg rgba(188, 189, 163, 0.9);
+@define-color wb-hvr-fg rgba(7, 32, 8, 1);
