@@ -1,0 +1,11 @@
+$HOME/.config/rofi/theme.rasi
+
+
+* {
+    main-bg:     #181C19E6;   /* dark background */
+    main-fg:     #EAE6DCE6;   /* 2B glove/hair tone for normal text */
+    main-br:     #3D4743E6;   /* border */
+    main-ex:     #9C6B5AE6;   /* accent */
+    select-bg:   #2F3A34E6;   /* selection background */
+    select-fg:   #fff07be6;   /* brighter yellowish-white for contrast */
+}
