@@ -11,7 +11,7 @@ $COLOR_SCHEME = prefer-dark
 #? This is not needed for the new implementation as this makes it slower
 
 #?exec = gsettings set org.gnome.desktop.interface icon-theme 'Gruvbox-Plus-Dark'
-#?exec = gsettings set org.gnome.desktop.interface gtk-theme 'Nier'
+exec = gsettings set org.gnome.desktop.interface gtk-theme 'Nier'
 #?exec = gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
 #?exec = gsettings set org.gnome.desktop.interface cursor-theme 'Gruvbox-Retro'
 #?exec = hyprctl setcursor Gruvbox-Retro 20
