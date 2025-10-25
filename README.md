@@ -10,9 +10,12 @@
 > **IMPORTANT**
 > This is not a standalone theme. It requires [HyDe](https://github.com/HyDE-Project/HyDE)/[Hyprdots](https://github.com/prasanthrangan/hyprdots) to be installed.
 
+## Overview
+
+![theme overview](/screenshots/overview.gif)
+
 
 ## Screenshots
-
 ![theme screenshot 1](/screenshots/nier1.png)
 ![theme screenshot 2](/screenshots/nier2.png)
 ![theme screenshot 3](/screenshots/nier3.png)
